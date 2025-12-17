@@ -1,0 +1,7 @@
+data/
+multirun/
+mlruns/
+TF_logs/
+Agrial_DL_df/
+outputs/
+checkpoints/

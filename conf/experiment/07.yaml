@@ -1,0 +1,11 @@
+exp_name: 07_entire_physical_multiMLP
+means_and_stds_path: data/work_data/means_and_stds.pkl
+
+model:
+  hyperparameters:
+    monotonic_indices: []
+  
+training:
+  static_physics: true
+  dynamic_physics: true
+

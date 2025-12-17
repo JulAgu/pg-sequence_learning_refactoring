@@ -1,0 +1,12 @@
+exp_name: 08_entire_s_physical_HardWiredBIG
+means_and_stds_path: data/work_data/means_and_stds.pkl
+  
+training:
+  softadapt_bool: true
+  initial_loss_coefficients:
+    alpha: 0.34
+    beta: 0.33
+    gamma: 0.33
+    delta: 0
+  static_physics: true
+
